@@ -1,0 +1,27 @@
+_repo: Cobra_72297
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Brown, Martin
+    gutenberg_agent_id: '56638'
+    url: http://www.gutenberg.org/2009/agents/56638
+  - agent_name: Holman, Russell
+    gutenberg_agent_id: '56639'
+    url: http://www.gutenberg.org/2009/agents/56639
+description: ''
+gutenberg_issued: '2023-12-03'
+identifiers:
+  gutenberg: '72297'
+language: en
+pgterms:marc905: 20231125195714brown
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cobra
+url: http://www.gutenberg.org/ebooks/72297
