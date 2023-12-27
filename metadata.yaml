@@ -1,5 +1,8 @@
 _repo: Cobra_72297
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72297-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Brown, Martin
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56639'
     url: http://www.gutenberg.org/2009/agents/56639
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72297#Cobra
 gutenberg_issued: '2023-12-03'
 identifiers:
   gutenberg: '72297'
